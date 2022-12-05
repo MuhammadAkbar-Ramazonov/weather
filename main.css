@@ -260,21 +260,3 @@ body {
 }
 /* ============================================================ */
 
-/* site carusel start */
-
-
-.slick-list {
-    overflow: hidden;
-}
-.slick-track{
-    display: flex;
-}
-.site-list{
-    max-width: 1831px;
-}
-.slick-arrow.slick-prev{
-    display: none!important;
-}
-.slick-arrow.slick-next{
-    display: none!important;
-}
